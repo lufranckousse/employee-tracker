@@ -15,3 +15,4 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES
     ('John', 'Doe', 1, NULL), -- Assuming John Doe is a Software Engineer without a manager
     ('Jane', 'Smith', 2, NULL), -- Assuming Jane Smith is a Sales Manager without a manager
     ('Alice', 'Johnson', 3, 2); -- Assuming Alice Johnson is a Marketing Coordinator with Jane Smith as her manager
+
